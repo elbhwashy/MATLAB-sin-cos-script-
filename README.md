@@ -1,0 +1,2 @@
+# MATLAB-sin-cos-script-
+Write a MATLAB script that creates an x vector; iterating through all the values from 0 to 2* in steps of 2* / 40 gives enough points to get a good graph. Then finds the sine of each x value, and plots these points using red o’s. Use command hold on to freezes this in the Figure Window so the next plot will be superimposed. Next, find the cosine of each x value and plots these points using blue +’s. The output of this script should produce the plot seen in the below Figure.
